@@ -1,2 +1,2 @@
 print("Hello World")
-print("老板是神经病")
+print("I'm great")
